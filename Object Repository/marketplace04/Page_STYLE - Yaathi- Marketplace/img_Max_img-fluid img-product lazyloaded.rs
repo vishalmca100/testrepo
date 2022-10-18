@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Max_img-fluid img-product lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>f6479625-01da-435b-ae4e-4660f81a7788</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid.img-product.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div[3]/div[2]/div[2]/div/div/div/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>27cc3582-09cb-46df-8ae1-d6d964e32dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://marketplace.iihtsrt.com/uploads/images/202110/img_x300_61617f28c08939-46552832-46141973.jpg</value>
+      <webElementGuid>4dd9d2d4-31ff-444e-a13d-b4eff2ae1d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://marketplace.iihtsrt.com/uploads/images/202110/img_x300_61617f28c08939-46552832-46141973.jpg</value>
+      <webElementGuid>59eff717-7841-4041-9a43-f60329779a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Grey Fancy Fabric Embroidery Saree</value>
+      <webElementGuid>3e604d70-c04e-402b-9b91-9ae1fcfa79ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid img-product lazyloaded</value>
+      <webElementGuid>a75fdb18-ceec-48e2-8296-99010079ea13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-9 col-content-products&quot;]/div[@class=&quot;product-list-content&quot;]/div[@class=&quot;row row-product&quot;]/div[@class=&quot;col-6 col-sm-4 col-md-4 col-lg-3 col-product&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;row-custom&quot;]/div[@class=&quot;img-product-container&quot;]/a[1]/img[@class=&quot;img-fluid img-product lazyloaded&quot;]</value>
+      <webElementGuid>6f49b952-eeff-4754-93a2-177b17f1d44f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div[3]/div[2]/div[2]/div/div/div/div/div/a/img</value>
+      <webElementGuid>229cdff5-4cdd-4f44-9a80-5f5decda901b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Grey Fancy Fabric Embroidery Saree']</value>
+      <webElementGuid>eda911d0-d197-47da-953c-61903441b6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/a/img</value>
+      <webElementGuid>f5075f78-8d9d-45f8-b557-c7f3654b9108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://marketplace.iihtsrt.com/uploads/images/202110/img_x300_61617f28c08939-46552832-46141973.jpg' and @alt = 'Grey Fancy Fabric Embroidery Saree']</value>
+      <webElementGuid>96579860-a4ad-4530-acf9-bab8ba8ad327</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

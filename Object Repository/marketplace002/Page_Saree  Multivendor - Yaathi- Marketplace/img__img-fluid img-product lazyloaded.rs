@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__img-fluid img-product lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>d350c94a-7fab-4da6-9b54-b62723065ad8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3fd91924-f6c1-4ccc-a61a-4c83c0a1e2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://marketplace.iihtsrt.com/uploads/images/202110/img_x300_6163dd7c4a6a15-07043924-88334921.jpg</value>
+      <webElementGuid>4c48cb99-66fc-4ad5-94ad-b880de22fd99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://marketplace.iihtsrt.com/uploads/images/202110/img_x300_6163dd7c4a6a15-07043924-88334921.jpg</value>
+      <webElementGuid>bda2b579-c203-4045-9b3b-0e2f9e10dbe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Latest Saree Blouse Designs and Patterns Online</value>
+      <webElementGuid>7baf1f63-3b0d-4f5f-a149-0aa3737c6c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid img-product lazyloaded</value>
+      <webElementGuid>a398e74e-406c-40f5-98ba-21d3b0e15c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-9 col-content-products&quot;]/div[@class=&quot;product-list-content&quot;]/div[@class=&quot;row row-product&quot;]/div[@class=&quot;col-6 col-sm-4 col-md-4 col-lg-3 col-product&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;row-custom&quot;]/div[@class=&quot;img-product-container&quot;]/a[1]/img[@class=&quot;img-fluid img-product lazyloaded&quot;]</value>
+      <webElementGuid>531f0871-114b-4d7c-a6d2-21f64ede4c11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div[3]/div[2]/div[2]/div/div[6]/div/div/div/a/img</value>
+      <webElementGuid>5caf3c1d-8c90-4860-b8a4-102dd0ba7ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Latest Saree Blouse Designs and Patterns Online']</value>
+      <webElementGuid>7ea6efcc-5c5e-4e30-939d-32854a104fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/a/img</value>
+      <webElementGuid>a8e28721-fb1b-47f7-849b-cd0c9ea0163d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://marketplace.iihtsrt.com/uploads/images/202110/img_x300_6163dd7c4a6a15-07043924-88334921.jpg' and @alt = 'Latest Saree Blouse Designs and Patterns Online']</value>
+      <webElementGuid>954ace42-86a0-4b90-8ed9-c2564ba6a388</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select                        PayPal_dfc70b</name>
+   <tag></tag>
+   <elementGuidId>8251941b-28e2-454c-b59c-f797c6de523d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='payout_method']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;payout_method&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>295a573b-87d3-4474-a67b-006f53d6adef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>payout_method</value>
+      <webElementGuid>fe7db2f5-d182-4c8d-a197-a7ff94a02d82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control custom-select</value>
+      <webElementGuid>cf6e674f-16a3-404a-8677-3f44a4db57c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Select
+                        PayPal
+                        IBAN
+                        SWIFT
+                    </value>
+      <webElementGuid>4152e8d5-0e48-4965-9379-e453f6150bb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini  pace-done&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-md-12&quot;]/div[@class=&quot;box box-primary&quot;]/form[@class=&quot;validate_price&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control custom-select&quot;]</value>
+      <webElementGuid>e6ed4724-e11c-454d-83e8-1d9626d78c95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='payout_method']</value>
+      <webElementGuid>bc852a14-a705-4862-b00b-10e8b0960a29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawal Method'])[1]/following::select[1]</value>
+      <webElementGuid>66453342-af50-4b04-a81f-6368f5de6955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::select[2]</value>
+      <webElementGuid>76b40efe-9696-4eea-a9c0-8289f00a4ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawal Amount (INR)'])[1]/preceding::select[1]</value>
+      <webElementGuid>0f890856-20d8-4bc2-9aa0-891fb171f16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>092bfc6b-25ad-4fec-9c49-b3618f37f8e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>ed4ec8e2-29ab-4309-88d3-1f0385adbd51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'payout_method' and (text() = '
+                        Select
+                        PayPal
+                        IBAN
+                        SWIFT
+                    ' or . = '
+                        Select
+                        PayPal
+                        IBAN
+                        SWIFT
+                    ')]</value>
+      <webElementGuid>b3f62232-34c8-4002-8010-115ec2fde6cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

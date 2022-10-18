@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Test Case For marketplace</description>
+   <name>LOGIN_TC_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39f9519e-2fe5-4d2a-8936-d1a075e86073</testCaseGuid>
+</TestCaseEntity>

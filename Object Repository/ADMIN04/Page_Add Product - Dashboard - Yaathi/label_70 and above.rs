@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_70 and above</name>
+   <tag></tag>
+   <elementGuidId>0afbb20a-7b96-4cb7-b105-9496365913a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkbox_options_container_7']/div/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>286d4eb4-ba1c-4013-9a77-3778d2d3ad0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>eed5ac14-f76f-406b-9b5d-7323c3af92a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>form_checkbox_5</value>
+      <webElementGuid>7ecc8374-e5b4-4cd0-a266-a817a33625a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>70% and above</value>
+      <webElementGuid>e4b2aa58-a542-4d3c-81d8-3395781ab536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkbox_options_container_7&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-sm-3 col-custom-option&quot;]/div[@class=&quot;custom-control custom-checkbox custom-control-validate-input label_validate_field_7&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>5b189310-5b2a-49c3-a734-5e4a8321f55a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkbox_options_container_7']/div/div[2]/div/label</value>
+      <webElementGuid>441230dd-400f-455f-9c0e-136bc3e36e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discount'])[1]/following::label[2]</value>
+      <webElementGuid>b8a3f245-4a24-4aa4-b131-65cf3af749ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sarees'])[1]/following::label[3]</value>
+      <webElementGuid>f61926f0-10e4-4363-aa63-30438cd490f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/preceding::label[1]</value>
+      <webElementGuid>e7d28f5a-528b-4a78-bd3f-a28551058511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='xl'])[1]/preceding::label[4]</value>
+      <webElementGuid>68588dcd-e58c-4bb1-abdf-3cc3e3d670b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='70% and above']/parent::*</value>
+      <webElementGuid>c6ba9f8b-036e-46f2-b3d3-cc9d9ed19eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/label</value>
+      <webElementGuid>041c38ce-5194-4691-a83d-6856a6b8a800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '70% and above' or . = '70% and above')]</value>
+      <webElementGuid>d3fed2f8-fa28-45c7-a747-0ea539c44ee2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Message</name>
+   <tag></tag>
+   <elementGuidId>a75bc263-b94d-4141-8ff2-74aef2621591</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Subject'])[2]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0ac2aa77-69aa-441f-ba64-6f9d0f73c2f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://onlineexam.iihtsrt.com/conversation</value>
+      <webElementGuid>bc1fabb5-ea76-4f14-b248-72de1b775dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Message </value>
+      <webElementGuid>df283f0a-ef21-4b42-837e-20fd6711ff41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue fuelux  pace-done&quot;]/div[@class=&quot;wrapper row-offcanvas row-offcanvas-left&quot;]/aside[@class=&quot;left-side sidebar-offcanvas&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[5]/a[1]</value>
+      <webElementGuid>11be350e-4e17-4b5d-acad-dfaeaf7d7900</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subject'])[2]/following::a[1]</value>
+      <webElementGuid>f29940fe-8934-4aa9-9850-e3bd7b73933d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teacher'])[1]/following::a[2]</value>
+      <webElementGuid>853fff14-0955-49a2-bd94-e90e42ba4738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Exam'])[1]/preceding::a[1]</value>
+      <webElementGuid>c7ff0a4a-0b37-48ed-afed-a8b1f633a446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://onlineexam.iihtsrt.com/conversation')]</value>
+      <webElementGuid>f8b024ac-b2d4-46a7-8c1f-d45e79331a29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>4359bb78-b72d-49a9-aa8b-f7bbb20ae789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://onlineexam.iihtsrt.com/conversation' and (text() = 'Message ' or . = 'Message ')]</value>
+      <webElementGuid>2fd6b6f8-ea56-45d4-857d-b47a4fbc24ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

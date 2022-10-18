@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__img-fluid img-product img-second lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>2a5e4a1b-0513-4f5b-b734-46afc6c9ccdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid.img-product.img-second.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div/div[3]/div[2]/div[2]/div/div[7]/div/div[1]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7230e792-ae54-43a7-b902-886fd83b56ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://marketplace.iihtsrt.com/uploads/images/202208/img_x300_62e7631b420f37-64338373-54944914.jpg</value>
+      <webElementGuid>ba46a823-4a6c-4c77-93d1-aab9d032ae13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://marketplace.iihtsrt.com/uploads/images/202208/img_x300_62e7631b420f37-64338373-54944914.jpg</value>
+      <webElementGuid>e4ce3f94-99f2-4b86-9513-ef0b2d3d3422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Woman lace blouse with different colors</value>
+      <webElementGuid>8865359f-f916-4485-b541-34063e7cc336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid img-product img-second lazyloaded</value>
+      <webElementGuid>4fc01405-24ed-4f59-8aea-a8c62d528da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-9 col-content-products&quot;]/div[@class=&quot;product-list-content&quot;]/div[@class=&quot;row row-product&quot;]/div[@class=&quot;col-6 col-sm-4 col-md-4 col-lg-3 col-product&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;row-custom product-multiple-image&quot;]/div[@class=&quot;img-product-container&quot;]/a[1]/img[@class=&quot;img-fluid img-product img-second lazyloaded&quot;]</value>
+      <webElementGuid>2792ae82-7845-46a7-bf9a-0d0c3d162919</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

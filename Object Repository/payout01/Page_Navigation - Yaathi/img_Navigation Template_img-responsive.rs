@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Navigation Template_img-responsive</name>
+   <tag></tag>
+   <elementGuidId>e1b28bc1-532b-4a91-9fca-7287188994e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://marketplace.iihtsrt.com/assets/admin/img/nav_1.jpg')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-responsive</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>21b156e0-1905-4c10-80ba-c656488826fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://marketplace.iihtsrt.com/assets/admin/img/nav_1.jpg</value>
+      <webElementGuid>6fa73f4a-cf26-4b15-bb80-26f411447c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>ac3f0da8-5ad8-4a1d-9c6e-545d853c3291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini  pace-done&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;box box-primary&quot;]/form[1]/div[@class=&quot;box-body&quot;]/div[@class=&quot;row nav-template-items&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;nav-template-item&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>03c09148-1ae7-4160-9a0e-db86710681b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://marketplace.iihtsrt.com/assets/admin/img/nav_1.jpg')]</value>
+      <webElementGuid>4af69b6e-598a-4ef2-93aa-81de67da8e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/img</value>
+      <webElementGuid>557e2b53-269f-44b2-a0d8-2fe53d438fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://marketplace.iihtsrt.com/assets/admin/img/nav_1.jpg']</value>
+      <webElementGuid>40fc2192-66fd-4749-acf5-4d945f778416</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

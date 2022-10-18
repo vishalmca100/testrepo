@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select                              _48488c</name>
+   <tag></tag>
+   <elementGuidId>91a316bb-f6f5-4496-ac5d-10ead26971c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select_listing_type</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='select_listing_type']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c43cc772-c82d-49ee-95d1-efd04de1bfae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select_listing_type</value>
+      <webElementGuid>ea3cb09f-9aae-46d3-adda-6d53f4fc0837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>listing_type</value>
+      <webElementGuid>adc5790e-ad41-40c8-95de-c0f2d9811148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control custom-select</value>
+      <webElementGuid>a26026ef-75f3-49ad-a4b2-d5a284e38cea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Select
+                                                    Add a Product for Sale
+                                            </value>
+      <webElementGuid>ac96673e-4278-4429-9f11-ad12781428af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select_listing_type&quot;)</value>
+      <webElementGuid>2dffb6c9-d521-4175-b778-8ab3d9842d0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='select_listing_type']</value>
+      <webElementGuid>e7a6d926-fad4-4e62-b5cc-85852ae78e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listing Type'])[1]/following::select[1]</value>
+      <webElementGuid>a5e641c0-8f61-4659-aa22-37388b4f2abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You can add your products with a CSV file from this section'])[1]/following::select[1]</value>
+      <webElementGuid>f74af231-ead2-4b68-94a5-286a6b82b594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/preceding::select[1]</value>
+      <webElementGuid>289a191b-8e8b-4775-9504-700d7de5e1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CSV File'])[1]/preceding::select[2]</value>
+      <webElementGuid>a5a4f7a7-55fe-44cf-9a99-95b65610a282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>09887aee-a289-4b3f-a2d9-cdf6fcd8207c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'select_listing_type' and @name = 'listing_type' and (text() = '
+                        Select
+                                                    Add a Product for Sale
+                                            ' or . = '
+                        Select
+                                                    Add a Product for Sale
+                                            ')]</value>
+      <webElementGuid>ca616fb5-33cd-4f86-87a4-4d0a844d0965</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__img-fluid img-product lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>0957f60b-cdda-4fc2-864a-e4bcfd09be2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div[3]/div[2]/div[2]/div/div[3]/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d1d17ba0-8b4b-40f6-9cc0-3937a3010795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://marketplace.iihtsrt.com/uploads/images/202208/img_x300_62ff34871e0588-76358738-51762602.jpg</value>
+      <webElementGuid>64f578ce-b779-4b76-98d0-c9549904a7f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://marketplace.iihtsrt.com/uploads/images/202208/img_x300_62ff34871e0588-76358738-51762602.jpg</value>
+      <webElementGuid>66bd62e0-1a78-44d1-ad83-a3e8b48db242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Festival suits</value>
+      <webElementGuid>e44b6e1e-8c0b-4c87-aa0c-1dca27dcc5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid img-product lazyloaded</value>
+      <webElementGuid>ac260d12-aba8-4a46-b00e-ce328e779e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-9 col-content-products&quot;]/div[@class=&quot;product-list-content&quot;]/div[@class=&quot;row row-product&quot;]/div[@class=&quot;col-6 col-sm-4 col-md-4 col-lg-3 col-product&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;row-custom&quot;]/div[@class=&quot;img-product-container&quot;]/a[1]/img[@class=&quot;img-fluid img-product lazyloaded&quot;]</value>
+      <webElementGuid>e7fc6c26-375d-41e5-8503-568626f0a5ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div[3]/div[2]/div[2]/div/div[3]/div/div/div/a/img</value>
+      <webElementGuid>54b7654c-516b-46d5-8906-a35d1d60b2dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Festival suits'])[2]</value>
+      <webElementGuid>27bdf9d7-54ec-43b7-843d-92ffe08e5dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/a/img</value>
+      <webElementGuid>cc1cb570-dd4a-4790-89f7-85aa670f1a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://marketplace.iihtsrt.com/uploads/images/202208/img_x300_62ff34871e0588-76358738-51762602.jpg' and @alt = 'Festival suits']</value>
+      <webElementGuid>0695ebbd-65ac-4762-983b-ac31d38a76d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

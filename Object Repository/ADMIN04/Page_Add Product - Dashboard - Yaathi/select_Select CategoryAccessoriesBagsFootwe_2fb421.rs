@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select CategoryAccessoriesBagsFootwe_2fb421</name>
+   <tag></tag>
+   <elementGuidId>8b06a9fb-7714-49a0-bda6-ba26ef6f57cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@name='category_id[]'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#category_select_container > select[name=&quot;category_id[]&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e62c5147-e2b6-4ab0-98dd-56a7fd66a7bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control custom-select</value>
+      <webElementGuid>8219623a-88d2-4aff-b093-2ce513e8a7f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>category_id[]</value>
+      <webElementGuid>6d804291-022e-4323-9c9a-03535eea4124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select-id</name>
+      <type>Main</type>
+      <value>1665724092297</value>
+      <webElementGuid>36ce46cf-6940-4fbd-989a-560afca59ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>get_subcategories(this.value,1665724092297);</value>
+      <webElementGuid>91594c2a-0ca9-4eea-974e-ab797cee08ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select CategoryAccessoriesBagsFootwearIndian WearJewelleryLingerieSleep &amp; LoungeSportswearWestern Wear</value>
+      <webElementGuid>e50a1e43-36e1-4b1f-890d-6d4b10336143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category_select_container&quot;)/select[@class=&quot;form-control custom-select&quot;]</value>
+      <webElementGuid>5ff5e657-ab42-4a18-99f0-71a846a8896c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@name='category_id[]'])[2]</value>
+      <webElementGuid>a0140406-d75c-4208-98dd-9ba0c7547885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='category_select_container']/select</value>
+      <webElementGuid>03d58177-dcb0-4d2c-86c9-bfce71fa6965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/following::select[2]</value>
+      <webElementGuid>03b02167-a1b3-4762-945f-b38997b14421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse Files'])[1]/following::select[2]</value>
+      <webElementGuid>db0005dc-6722-4b6a-9c98-4f81819f828e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/preceding::select[1]</value>
+      <webElementGuid>83e8ea6a-1cff-4d09-9442-87fd0d30e720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/select</value>
+      <webElementGuid>47ebde7a-335f-4ed0-82b3-1ecc1dc1882f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'category_id[]' and (text() = 'Select CategoryAccessoriesBagsFootwearIndian WearJewelleryLingerieSleep &amp; LoungeSportswearWestern Wear' or . = 'Select CategoryAccessoriesBagsFootwearIndian WearJewelleryLingerieSleep &amp; LoungeSportswearWestern Wear')]</value>
+      <webElementGuid>2d83a21a-c30a-4c63-a571-c4690edb22dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

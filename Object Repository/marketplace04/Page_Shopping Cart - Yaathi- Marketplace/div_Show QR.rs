@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Show QR</name>
+   <tag></tag>
+   <elementGuidId>0b699a76-78a8-4de7-af22-a3fcdd49465c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn.svelte-1inhwqd</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-upi']/div/div/div/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fcd573c0-7c70-448b-b552-d4696759eaaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>refresh</value>
+      <webElementGuid>1938829f-cfb6-4fcd-9926-db3e02fad5da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-content</name>
+      <type>Main</type>
+      <value>refresh</value>
+      <webElementGuid>e1ff5680-7985-44ff-b375-1304d1a7f8d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn svelte-1inhwqd</value>
+      <webElementGuid>ee00f3af-7b61-46d3-8a25-5a9034b9a6f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show QR</value>
+      <webElementGuid>b45f84e9-35a1-4980-a1c4-f1c51665dddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-upi&quot;)/div[@class=&quot;screen screen-comp svelte-1xze4ub one-cc&quot;]/div[@class=&quot;upi-container svelte-jkscth screen-one-cc&quot;]/div[@class=&quot;svelte-jkscth&quot;]/div[@class=&quot;methods-block svelte-3d237k is-top-position&quot;]/div[@class=&quot;qr-v2-wrapper svelte-3d237k&quot;]/div[@class=&quot;qrv2 svelte-1inhwqd&quot;]/div[@class=&quot;qr-image svelte-1inhwqd&quot;]/div[@class=&quot;img-btn svelte-1inhwqd&quot;]/div[@class=&quot;btn svelte-1inhwqd&quot;]</value>
+      <webElementGuid>4ac3c2ed-572d-47aa-87b1-366e8f4392bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/marketplace04/Page_Shopping Cart - Yaathi- Marketplace/iframe_Test Mode_razorpay-checkout-frame</value>
+      <webElementGuid>5ff8f5cb-9ef4-4ab8-9472-113286cdfc14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-upi']/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>be4a1303-4c2d-45fe-93a7-d9b2a3986450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay With UPI QR'])[1]/following::div[5]</value>
+      <webElementGuid>8c286017-bfda-48b4-a42e-f0c1990d5d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secured by'])[4]/following::div[15]</value>
+      <webElementGuid>fb19da1d-8fcf-4e4e-a511-a73de9be7894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan the QR using any UPI app on your phone.'])[1]/preceding::div[1]</value>
+      <webElementGuid>c7dd6f3f-670d-4c92-a201-524d95f2ed19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay using UPI ID'])[1]/preceding::div[6]</value>
+      <webElementGuid>60f80c04-303e-49e3-a83e-8276fdea4052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show QR']/parent::*</value>
+      <webElementGuid>3c8f89ca-7aa4-4e83-b344-168d775ee0e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>c8b7005c-b4a6-493c-834e-15fb80d00514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Show QR' or . = 'Show QR')]</value>
+      <webElementGuid>7eb7b871-5e0a-42e2-90fd-1d1c1d36db0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

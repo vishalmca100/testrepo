@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Add to Cart_icon-cart-solid</name>
+   <tag></tag>
+   <elementGuidId>8236ac38-7321-453b-a918-99a073faded4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_add_cart']/div[3]/div/div[2]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-cart-solid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5e02e83c-95f5-4065-b266-f5b43e5765a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-cart-solid</value>
+      <webElementGuid>0f052e76-1c5b-40ef-9faf-aa7ac154f39a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_add_cart&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 product-add-to-cart-container&quot;]/div[@class=&quot;button-container&quot;]/button[@class=&quot;btn btn-md btn-block btn-product-cart&quot;]/i[@class=&quot;icon-cart-solid&quot;]</value>
+      <webElementGuid>23175d68-0ca4-4f42-8ddf-f934d70c2362</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_add_cart']/div[3]/div/div[2]/button/i</value>
+      <webElementGuid>cc36bead-238a-4a6f-9597-c2e889c95694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/button/i</value>
+      <webElementGuid>a78f6695-92fd-4d04-9525-00e7ff29211b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
